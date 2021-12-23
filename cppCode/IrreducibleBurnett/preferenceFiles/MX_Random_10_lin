@@ -1,0 +1,8 @@
+./Smatrices/SInit10A
+./Smatrices/SmatrixMX10A
+./../initialFunctions/finitRandom10
+./testResults/SoutMX_Random_10
+./testResults/Fout_0_MX_Random_10
+0.001
+1000
+0
